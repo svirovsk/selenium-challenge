@@ -1,0 +1,1 @@
+The solution is built as a maven project. To run the tests run the test suite testng.xml
